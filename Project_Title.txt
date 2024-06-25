@@ -1,0 +1,5 @@
+Project Title: Tag Me
+
+Project Description
+
+Tag Me is an app that searches for trending hashtags online in different fields. It will enable digital marketers, influencers and social media users to be able to grow there pages.
